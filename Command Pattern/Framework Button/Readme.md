@@ -4,4 +4,4 @@
 
 
 ### Class Diagram
-![](FrameworkButtonClassDiagra.png)
+![](FrameworkButtonClassDiagram.png)
