@@ -4,7 +4,7 @@
 
 
 ### Description
-- **It is a Structural Desing Pattern.**
+- **It is a structural design pattern.**
 - **Facade pattern hides the complexities of the system and provides an interface to the client using which the client can access the system.**
 - **As systems or parts of systems become larger, they also become more complex. This is not necessarily a bad thing – if the scope of a problem is large, it may require a complex solution. However, client classes function better with a simpler interaction. The façade design pattern attempts to resolve this issue by providing a single, simplified interface for client classes to interact with a subsystem.**
 - **A façade is a wrapper class that encapsulates a subsystem in order to hide the subsystem’s complexity; it acts as a point of
