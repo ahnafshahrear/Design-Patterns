@@ -4,9 +4,9 @@
 
 
 ### Description
-- **Objects in the code are aware of their current state. They can choose an appropriate behavior based on their current state. When their current state changes, this behavior can be altered - this is the State Design Pattern.**
-- **This pattern should be primarily used when we need to change the behavior of an object based upon changes to it's internal state or the state it is in at run-time.**
-
+- **It is a behavioural design pattern.**
+- **The template method pattern defines an algorithm’s steps generally, by deferring the implementation of some steps to subclasses. In other words, it is concerned with the assignment of responsibilities.**
+ 
 
 ### Class Diagram
 ![](TemplateMethodPatternClassDiagram.png)
